@@ -191,3 +191,5 @@ Iafoss/*
 *.zip
 hb_training_loop/*.zip
 exp/*
+*.npz
+*.pt
